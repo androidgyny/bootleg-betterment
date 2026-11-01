@@ -3,7 +3,17 @@ Last updated: November 1, 2026
 Requires Python 3 and all three original Chinese X1, X2, X3 ROMs.
 Extract the ROMs first. Keep each 16-byte NES header. Each source is 1,048,592 bytes.
 
-Windows: patch-windows.cmd "X1.nes" "X2.nes" "X3.nes" "FFIV-Beta-1.1.nes"
+Put all three ROMs in the extracted patch-kit folder, alongside the patch scripts.
+Replace X1.nes, X2.nes and X3.nes below with your actual filenames, in chapter order.
+Keep the quotation marks. The last filename is the finished ROM and must not already exist.
+
+Windows: open the folder in File Explorer, click its address bar, type powershell,
+and press Enter. Paste the Windows command below and press Enter.
+macOS/Linux: open a terminal in this folder. On macOS, type cd followed by a space,
+drag the folder into Terminal, and press Enter, then run the command below.
+Double-clicking the launcher alone does not supply the required filenames.
+
+Windows: .\patch-windows.cmd "X1.nes" "X2.nes" "X3.nes" "FFIV-Beta-1.1.nes"
 macOS/Linux: sh patch-macos-linux.sh "X1.nes" "X2.nes" "X3.nes" "FFIV-Beta-1.1.nes"
 Or run python3 patch.py with the same four arguments (Windows: py -3).
 
