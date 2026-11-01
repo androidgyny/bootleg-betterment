@@ -1,0 +1,46 @@
+{
+  "version": "Beta 1.1",
+  "lastUpdated": "2026-11-01",
+  "romSHA256": "1054a3691807cf68bf483e8a96f11f42532ce32a57d585faa5fbaa3e190a081b",
+  "changedBytesFromBeta1": 639,
+  "chapterValidation": {
+    "chapter1": {
+      "agent": "GPT-6.1 Sol Low",
+      "freshNewGame": true,
+      "endingAndTitle": true,
+      "stages": 207,
+      "frames": 262515
+    },
+    "chapter2": {
+      "agent": "GPT-6.1 Sol Low",
+      "freshNewGame": true,
+      "endingAndTitle": true,
+      "phases": 14,
+      "frames": 127906,
+      "independentEdwardBranch": true
+    },
+    "chapter3": {
+      "agent": "GPT-6.1 Sol Low",
+      "freshNewGame": true,
+      "endingAndTitle": true,
+      "stages": 181,
+      "frames": 266625
+    }
+  },
+  "nativeTextRecordsPassed": 4829,
+  "locationLabelsDrawAndClearPassed": 152,
+  "boundaryGuardFixturesPassed": 26,
+  "nativeSavesAndReloadsAllChapters": true,
+  "previousBeta1NativeSaveCompatibility": true,
+  "resetCasesPassed": 12,
+  "damagedSaveRecoveryCasesPassed": 9,
+  "patchReconstructsExactROM": true,
+  "omissionReview": "No further approved omission found in inspected local releases. Broader Japanese proposals were intentionally excluded. Original non-text code is retained except the specified GIL/menu repair.",
+  "limits": [
+    "Assisted combat and encounter suppression; not unassisted balance testing.",
+    "Representative visual inspection, not every animation frame or optional branch.",
+    "PC FCEUmm; audio and physical hardware not exhaustively tested.",
+    "Chapter 3 exhaustive label test uses an explicitly rebased historic field fixture, separate from fresh full playthrough.",
+    "Inherited brief text-clear recolouring remains unchanged."
+  ]
+}

@@ -21,7 +21,7 @@
     "verification": "Existing release roundtrip report; patch bytes and final ROM hash rechecked."
   },
   "ffiv": {
-    "version": "Beta 1",
+    "version": "Beta 1.1",
     "lastUpdated": "2026-11-01",
     "sources": [
       {
@@ -41,11 +41,9 @@
       }
     ],
     "assembledBaseSha256": "77bfbc14e33add483b1d6b428e8c2a45049c63d67c112e7e72ce2d2429c8083e",
-    "patchSha256": "c06d7e646bcfc795afa143fee1b2ca139569cc8082439f29c267b48f72b36f30",
-    "outputSha256": "0b94da83c9132a2254f6976245c79baebef4d3a694608d088e0bdf60ca400d8c",
+    "patchSha256": "0eaf3b52ec21d5a6a386dae68a59c6ee9fd0a441f2844354cea478b4442bfc69",
+    "outputSha256": "1054a3691807cf68bf483e8a96f11f42532ce32a57d585faa5fbaa3e190a081b",
     "outputBytes": 4194320,
-    "roundtripPassed": true,
-    "wrongSourceRejected": true,
-    "overwriteRejected": true
+    "patchRoundtrip": true
   }
 }

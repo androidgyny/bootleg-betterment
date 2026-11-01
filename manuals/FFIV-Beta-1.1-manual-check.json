@@ -1,0 +1,246 @@
+{
+  "version": "Beta 1.1",
+  "revision": 3,
+  "lastUpdated": "2026-11-01",
+  "romSHA256": "1054a3691807cf68bf483e8a96f11f42532ce32a57d585faa5fbaa3e190a081b",
+  "manualSHA256": "16c90224535286891c41ab8dd84c0dcb2bea1b62f567aa6c04a5a6e02c561820",
+  "pages": 25,
+  "screenshotPlacements": 38,
+  "allReplacementPixelsVerified": true,
+  "walkthroughTextUnchanged": true,
+  "additions": [
+    "Release/date on cover",
+    "GIL, panel and shortened-location-name note in preface"
+  ],
+  "visualReview": "All 25 pages rendered with Poppler and visually inspected; no clipping or overlap; menu figures match final build.",
+  "screenshots": [
+    {
+      "page": 3,
+      "source": "c1-verified-selector.png",
+      "sourceSHA256": "040663a2930aa10ae95f95d666d8f13c0416c23768de5d4f423b502b3f946040",
+      "pixelSHA256": "8b6e7d6de723e1933b5e1bddd42d81e8394ed270eb48c4c38f3819c8b7720f02"
+    },
+    {
+      "page": 4,
+      "source": "c1-verified-title.png",
+      "sourceSHA256": "1036fbb20ecc1aa9f493a8bcbbac160c69025a130eff07c3fa2e8bc28e82412e",
+      "pixelSHA256": "1f79010930c9d7482c59c487a8604cb258d3be44612dd9ee69c440cadf08f49c"
+    },
+    {
+      "page": 5,
+      "source": "mist-cave-entered.bmp",
+      "sourceSHA256": "542e2a5cf9f84e2823581924888a349a4bb78feb236215dba909df44ace84f02",
+      "pixelSHA256": "20bdb1c579d372b7df4a7ee5627172d845ab13266d22c5afd438bd577c3a7dc2"
+    },
+    {
+      "page": 6,
+      "source": "tellah-native-joins.bmp",
+      "sourceSHA256": "71fd4778b8bfadeedad3b3a3aab367b182e90c38950ba074231d921d7bfda9a1",
+      "pixelSHA256": "46bdff2bd1d9d4c662169851c034c75e97459587c572d402e332b1bf49d4a7bf"
+    },
+    {
+      "page": 6,
+      "source": "rosa-poison-native.bmp",
+      "sourceSHA256": "738068cf83af99f684d4c8d2b713985c5c45aec01365d20f6601118dbae9bf5c",
+      "pixelSHA256": "a2e9924991c505fa1734341140b293a1ce7c4ac4ba7481cddfb626c0740c20ae"
+    },
+    {
+      "page": 7,
+      "source": "yang-joins.bmp",
+      "sourceSHA256": "f43eb046dbba2e0ddaff35f0d722c4859b81d7dc798885c081bec9a93729115e",
+      "pixelSHA256": "9808d0ec57846cec156aea03b410dd019d67f334e18905c861f8cd2daf300653"
+    },
+    {
+      "page": 7,
+      "source": "fabul-king-audience.bmp",
+      "sourceSHA256": "fc273089c6fd76ac2abb1aac0dd674bb8a1bb0113509d21574f5c297fa85d279",
+      "pixelSHA256": "ac3d53839b0582b2fa9237b951e71d7ba8d5c44096676684159eb7303f8fbeaf"
+    },
+    {
+      "page": 7,
+      "source": "anna-and-edward-scene.bmp",
+      "sourceSHA256": "04e1d289787f3067bd85dc9d07d3ab07b5602f262c2c780297944f0c6c3c5d42",
+      "pixelSHA256": "67cac53aedb858446a48a999b51aab084e49d2b4bab2eca9f620fc82ea3c6cc4"
+    },
+    {
+      "page": 8,
+      "source": "mysidia-twins-ready.bmp",
+      "sourceSHA256": "dd420aaafdedc85d870dfc1f26beacd6f602664635e9988f3b1e1f9fffffe5c6",
+      "pixelSHA256": "e34af11beb81aa74489f6b6106220b688606e223e9df1368e601283322e345a4"
+    },
+    {
+      "page": 8,
+      "source": "ordeals-fire-approach.bmp",
+      "sourceSHA256": "7f13a9b4cec39c325a19a437b3f64b4fd6a093f7771156a0f1660c06e42ee238",
+      "pixelSHA256": "0f5dacde9df78f14a61a15d0297c886e8b35be6dcb95bc041657799f77ca4b63"
+    },
+    {
+      "page": 9,
+      "source": "inspection-party-menu.bmp",
+      "sourceSHA256": "03db3b84037464a6ca4c67d15d1a00f7b31156fc1ddc5be7b1269b5b080d4c0a",
+      "pixelSHA256": "88ad7d29e6a3bb28fd1db691139b8db3f48ad25797034cc7a7db7b5145da9510"
+    },
+    {
+      "page": 10,
+      "source": "battle-active-151527.bmp",
+      "sourceSHA256": "751ed9269e3693b21accb8d81be50211847527ceec13d6d7250678b7d1e683cc",
+      "pixelSHA256": "a1325aabbabe2d2b4a94577d2a40751e94192a0cf125e1cb09068d8a66bbe220"
+    },
+    {
+      "page": 11,
+      "source": "c2-verified-title.png",
+      "sourceSHA256": "fb898f87ae776deef909bb04a162c276301a7f22a4d04105edeef762c966dd65",
+      "pixelSHA256": "f09a84b7781f1ee2d11899795e6dd6249ddf98c7e1a824b7eca301cbda2057fc"
+    },
+    {
+      "page": 12,
+      "source": "waterway-entered.bmp",
+      "sourceSHA256": "f81e42d8c4873b42ba718643f14eeaab56107a0f31c24f36ced5f89a4d9bbb25",
+      "pixelSHA256": "15a9bc9df3e612897828667596e00a23f94d5d09a5dfd3c229f31517088f312d"
+    },
+    {
+      "page": 12,
+      "source": "opening-menu.bmp",
+      "sourceSHA256": "8cfee81222215e0c1c86bcf511ec15fd7501cfb951f61375243be552c7b7df6f",
+      "pixelSHA256": "fdbadcc36702b62fcad7442edd3cb9a83f0d7b47442d9e2bf94048059e74b663"
+    },
+    {
+      "page": 12,
+      "source": "castle-rear.bmp",
+      "sourceSHA256": "ca887b558da2ccbf5ca8e00f4bd12dd9393f3472db1e6054d0d5625b553b3ee2",
+      "pixelSHA256": "397c55711d198d8bf3d9ffa4d0f9ab2280ef926923b205d59895954ed760f9d4"
+    },
+    {
+      "page": 13,
+      "source": "battle-2-before.bmp",
+      "sourceSHA256": "d19082257d4ba27d6f919ad9d692a315646eb5c584f4479789ba4183af06593a",
+      "pixelSHA256": "3614d9c7bc136ebe3b8733ac3f7f84c8125ddb32dffe4127696ad887d0f4c516"
+    },
+    {
+      "page": 13,
+      "source": "enterprise-and-kain.bmp",
+      "sourceSHA256": "7e0abefd2af4a8b2f89343f029ed6a56d5cfd92a241e1e7269f767ddfc7808a6",
+      "pixelSHA256": "bc706a40271f5adcefd4442bf4a820d51906be9e7db86223449baf7e3e6dbcbc"
+    },
+    {
+      "page": 14,
+      "source": "lodestone-depths-3.bmp",
+      "sourceSHA256": "da8424b81fc9faf4dae592b817c8071dca36adac013a190d3895d9966da415e2",
+      "pixelSHA256": "8a8ec3f609a096506bec14a1b0867ad0c588f6702ea39b8ff65a4c1db557f4f9"
+    },
+    {
+      "page": 14,
+      "source": "twin-harp-complete.bmp",
+      "sourceSHA256": "90809db5dd24db0fda40661ef6d45c4ae35fc79bab505540734a76400b6fefaa",
+      "pixelSHA256": "1c7e90080b11a0e45ee192e89c10c975284a996e35bc3ca498694cca37817ab7"
+    },
+    {
+      "page": 14,
+      "source": "lodestone-portals-2.bmp",
+      "sourceSHA256": "e8be8dc0745906a62d196bdfafe1e178a32c1bb828c81188c2c396be5565aa2d",
+      "pixelSHA256": "91d55cff9aad0e7756c4a9f6a09f369a1660e8512920496bf140ca99d341b042"
+    },
+    {
+      "page": 15,
+      "source": "rosa-and-kain-complete.bmp",
+      "sourceSHA256": "d0c137ae1c0e684ee4c9391b6cc4e501f1ec53c7ffb59f8b4321fdbe65980213",
+      "pixelSHA256": "cabefc048138859cd81b38f14f8edc967279de91db00686dab3261ff28c12303"
+    },
+    {
+      "page": 15,
+      "source": "zot-field.bmp",
+      "sourceSHA256": "5a9ea866b5ef64ada944ce871b8cd7cda763652e2055194b38f331bd43624cab",
+      "pixelSHA256": "5b50cbba91eec9825bb08bd4d6e6b6129be7d98cd0caca5f82cea90953fcaa62"
+    },
+    {
+      "page": 15,
+      "source": "magus-complete.bmp",
+      "sourceSHA256": "9d16a0ef04c4d2dad634a91683eb74312d28757a8514f3722116dbc513e7d9d1",
+      "pixelSHA256": "e7dfb575be5e5ab3c6d62dcea89be3f811e9d80b6538814e4f9363b2063fa893"
+    },
+    {
+      "page": 16,
+      "source": "opening-menu.bmp",
+      "sourceSHA256": "8cfee81222215e0c1c86bcf511ec15fd7501cfb951f61375243be552c7b7df6f",
+      "pixelSHA256": "fdbadcc36702b62fcad7442edd3cb9a83f0d7b47442d9e2bf94048059e74b663"
+    },
+    {
+      "page": 17,
+      "source": "battle-9-before.bmp",
+      "sourceSHA256": "5343e15c35b01fca8f41f9da262385f3934753b522f03836eef40549703086b1",
+      "pixelSHA256": "3d1bb57ee850dff5d2c54964a0e6d4ad438a41816a5bb4c3419f563cb5d78e24"
+    },
+    {
+      "page": 18,
+      "source": "c3-verified-title.png",
+      "sourceSHA256": "4bc125ae110a2e77dc67bbc37376bcc71eaaabf334c8aacdadcbbda5859d5998",
+      "pixelSHA256": "22df908ca999f6694845e224ed8dd93917389d8adfa59c0e2902280dd37003ed"
+    },
+    {
+      "page": 19,
+      "source": "010-throne.bmp",
+      "sourceSHA256": "c9471754ac9753612d8f56b39af2000852bb7bca112940908bba50f54922ea63",
+      "pixelSHA256": "430d500bf39706ac83a293fbce112e19271ccd8c9406edb8463686f41ffc7207"
+    },
+    {
+      "page": 20,
+      "source": "032-travel-70-75-31-1.bmp",
+      "sourceSHA256": "b02b959065971a48fe6415b9b22add55bc2f200c46a8c5d9e644c93e363de336",
+      "pixelSHA256": "950e73d09531cc712dafb4f4fcac23af421e1e74d882d2e0141ca4b819bc8572"
+    },
+    {
+      "page": 20,
+      "source": "057-edge-party-menu.bmp",
+      "sourceSHA256": "06f737baaba9ede486855e098cf366f60616b2e8f047a4a3b983451936e48efc",
+      "pixelSHA256": "d2ab54cc0a497b1425db3afefcfa56f694b23a14f310e590fd91cb314044c684"
+    },
+    {
+      "page": 21,
+      "source": "094-sealed-rope-climb.bmp",
+      "sourceSHA256": "3982c517fe9f1c2c43389066e2cc1fbee41a6e2951cb795d153aeafa5be7364d",
+      "pixelSHA256": "559a2c83b100e8d52cbebf0b5e8df82f936df523ba002ec633437d10a3922c5f"
+    },
+    {
+      "page": 21,
+      "source": "065-cid-lava-upgrade.bmp",
+      "sourceSHA256": "5908866e9ea9f7c7f8b7bd1ac6892d064de80e65fc1b234f1686758fe2b35126",
+      "pixelSHA256": "47f53facb73be3c1c52ba4c0cd5ae9d02922f5b5b9ee6cea5b109f5e52433c43"
+    },
+    {
+      "page": 21,
+      "source": "056-luca-key-briefing.bmp",
+      "sourceSHA256": "0dc16f6db8beb05263f6d6c6fcbcc2e9ae488d30f9a3f9b6d750c5f4ca3fae5d",
+      "pixelSHA256": "239d28c5d40764c0c4f62d7fc772f667670b53b072b9edb33c26adc48de3e39e"
+    },
+    {
+      "page": 22,
+      "source": "147-giott-moon-route.bmp",
+      "sourceSHA256": "52af841a08d4c9fca93cb021e4a8b86ad567e2a697006d99fdd5b378ee099eac",
+      "pixelSHA256": "c8c49b5d1a5c1240d0069f85ed216a2f081cb1aead35c6500c2d292e361b374c"
+    },
+    {
+      "page": 22,
+      "source": "172-depths-right-platform.bmp",
+      "sourceSHA256": "14b7fa8a33eda48b79a3ec4b7fb4d0f8562a5a096759d4db294841786a53d89b",
+      "pixelSHA256": "f1f1f716387706aec1402f682625203c942ba191df8a86eae8996a47c9633ac3"
+    },
+    {
+      "page": 22,
+      "source": "settled-battle-zeromus-defeated-ending.bmp",
+      "sourceSHA256": "91152f520164e10c78bb47a63fb29ba3ee5a8d180c0f71c9facbb0e459b43d95",
+      "pixelSHA256": "969ec23b0fcdb6b6c17acc5e34460cde6314d058746a0d2b559c6ffb3a4b5247"
+    },
+    {
+      "page": 23,
+      "source": "011-first-menu.bmp",
+      "sourceSHA256": "d45abc6cdb61fff2dd9385a7de036a03fb216fe045e5403451d83cdd165372be",
+      "pixelSHA256": "c8681c30d33cc7c282581bfe04a8f5a1b489c41863092ae2de14f918a7175b34"
+    },
+    {
+      "page": 24,
+      "source": "settled-battle-zeromus-defeated-ending.bmp",
+      "sourceSHA256": "91152f520164e10c78bb47a63fb29ba3ee5a8d180c0f71c9facbb0e459b43d95",
+      "pixelSHA256": "969ec23b0fcdb6b6c17acc5e34460cde6314d058746a0d2b559c6ffb3a4b5247"
+    }
+  ]
+}
