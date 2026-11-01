@@ -1,0 +1,252 @@
+{
+  "checkedOn": "2026-11-01",
+  "manualSHA256": "7396248a4377285080f77dacd51c52d6e49af368cd012a33aeab12fb342d84d7",
+  "pages": 25,
+  "romSHA256": "0b94da83c9132a2254f6976245c79baebef4d3a694608d088e0bdf60ca400d8c",
+  "result": "All 38 screenshot placements updated to verified Beta 1 captures; text unchanged and remains consistent with Beta 1.",
+  "checks": [
+    "All 25 pages rendered and reviewed after updating screenshots.",
+    "Pages 2-4: mapper 342, 32 KiB battery storage, chapter selection/reset, separate saves consistent with multicart manifest and Beta 1 save validation.",
+    "Pages 4-24: controls, menus and route instructions retained; Beta 1 changes text only, with header, menu, mapper and event code unchanged.",
+    "Compared all fourteen Beta 1 revised records with manual story summaries and walkthrough. No superseded dialogue quoted or contradicted.",
+    "Chapter 2 summary leaves the king revelation for the castle walkthrough.",
+    "Chapter 3 manual retains the NES-specific return to dwarves, lunar route and final approach."
+  ],
+  "limits": "Document/evidence comparison, not a new gameplay playthrough or exhaustive mechanics test.",
+  "revision": "2 - Beta 1 screenshots",
+  "screenshotPlacements": 38,
+  "uniqueImageObjectsReplaced": 37,
+  "allReplacementPixelsVerified": true,
+  "allPageTextUnchanged": true,
+  "visualReview": "All 25 rendered pages checked after image replacement.",
+  "screenshots": [
+    {
+      "page": 3,
+      "source": "c1-verified-selector.png",
+      "sourceSHA256": "040663a2930aa10ae95f95d666d8f13c0416c23768de5d4f423b502b3f946040",
+      "embeddedPNG_SHA256": "040663a2930aa10ae95f95d666d8f13c0416c23768de5d4f423b502b3f946040"
+    },
+    {
+      "page": 4,
+      "source": "c1-verified-title.png",
+      "sourceSHA256": "1036fbb20ecc1aa9f493a8bcbbac160c69025a130eff07c3fa2e8bc28e82412e",
+      "embeddedPNG_SHA256": "1036fbb20ecc1aa9f493a8bcbbac160c69025a130eff07c3fa2e8bc28e82412e"
+    },
+    {
+      "page": 5,
+      "source": "mist-cave-entered.bmp",
+      "sourceSHA256": "542e2a5cf9f84e2823581924888a349a4bb78feb236215dba909df44ace84f02",
+      "embeddedPNG_SHA256": "1a749298e09a855f11f32a509fd7edc555deb37c66b70e32a47a9777f199d3b8"
+    },
+    {
+      "page": 6,
+      "source": "tellah-native-joins.bmp",
+      "sourceSHA256": "4fcf69adc0e2f495f4b992831144b99f6ea958215382d66f0261060e37476519",
+      "embeddedPNG_SHA256": "fe0124b993c5a4def2123c7e099dbf0b98f2e1112c5785ad776401d5d8070844"
+    },
+    {
+      "page": 6,
+      "source": "rosa-poison-native.bmp",
+      "sourceSHA256": "738068cf83af99f684d4c8d2b713985c5c45aec01365d20f6601118dbae9bf5c",
+      "embeddedPNG_SHA256": "87fb5931d05c274201998e2869dcb82a22814dae707de916b07875994b134b02"
+    },
+    {
+      "page": 7,
+      "source": "yang-joins.bmp",
+      "sourceSHA256": "f43eb046dbba2e0ddaff35f0d722c4859b81d7dc798885c081bec9a93729115e",
+      "embeddedPNG_SHA256": "6457b9e226ba4d1088009c77d1fa9da21483c2bdb288db12b105a38e5cb4cb5f"
+    },
+    {
+      "page": 7,
+      "source": "fabul-king-audience.bmp",
+      "sourceSHA256": "748773218185e11906fd5fe64034cb519f765036d3ff99ace897502b571dcfc8",
+      "embeddedPNG_SHA256": "99f3e94fbbcae42cada8a1b59fc1e725e416721f8a36024baf3742252ad61302"
+    },
+    {
+      "page": 7,
+      "source": "anna-and-edward-scene.bmp",
+      "sourceSHA256": "0716aeeb6d5853ca90a6441a5aa38fbd5973e90318936cce4c7cc36170bc179b",
+      "embeddedPNG_SHA256": "b966e02d7f0a14a941ba1a42d6aea09cf374dff11f1d2b8b3603530ba70931e4"
+    },
+    {
+      "page": 8,
+      "source": "mysidia-twins-ready.bmp",
+      "sourceSHA256": "dd420aaafdedc85d870dfc1f26beacd6f602664635e9988f3b1e1f9fffffe5c6",
+      "embeddedPNG_SHA256": "d5415b5a62b09b6ea6e10090626be8d13ceaf85892c2ebff1f79e3dac9766838"
+    },
+    {
+      "page": 8,
+      "source": "ordeals-fire-approach.bmp",
+      "sourceSHA256": "b101fd129aa48ef65c13c5d11e74a034616bbc446f732736d95254262e8ba946",
+      "embeddedPNG_SHA256": "928118ef12584e560a4a3a52904e71942e610a74d5cd2da84d778df0de69ef8f"
+    },
+    {
+      "page": 9,
+      "source": "inspection-party-menu.bmp",
+      "sourceSHA256": "ce6a8ad0adbf96c913a8e1600d55f8ab90c9cfb9b9a7f82773da9432807c2cc4",
+      "embeddedPNG_SHA256": "b8961736ba13a5946bbadef72acc8b99c060c662151469d5d82c1f3a2842b624"
+    },
+    {
+      "page": 10,
+      "source": "battle-active-151377.bmp",
+      "sourceSHA256": "ef49fd4865815c894a6736aa97aa59116efc2da3ef54e9290d5e41fb5f637702",
+      "embeddedPNG_SHA256": "c3f89d7d2097e0e10535bc22effd449b316b2be5dcffe2960a93577ce29d66ad"
+    },
+    {
+      "page": 11,
+      "source": "c2-verified-title.png",
+      "sourceSHA256": "fb898f87ae776deef909bb04a162c276301a7f22a4d04105edeef762c966dd65",
+      "embeddedPNG_SHA256": "fb898f87ae776deef909bb04a162c276301a7f22a4d04105edeef762c966dd65"
+    },
+    {
+      "page": 12,
+      "source": "waterway-entered.bmp",
+      "sourceSHA256": "f81e42d8c4873b42ba718643f14eeaab56107a0f31c24f36ced5f89a4d9bbb25",
+      "embeddedPNG_SHA256": "f4d0efafcf539761161bd37bbaabdc6f734261ec9916987a72fcb52f6f62da97"
+    },
+    {
+      "page": 12,
+      "source": "opening-menu.bmp",
+      "sourceSHA256": "1b1b6633ec05c393ba1ee160d87a54022812e7085b8e06e62c47fe00674b2f9c",
+      "embeddedPNG_SHA256": "3511da1626c9afbcc3298b19db9b36a449f04c6ec17704613aae3698cf4cd3e4"
+    },
+    {
+      "page": 12,
+      "source": "castle-rear.bmp",
+      "sourceSHA256": "ca887b558da2ccbf5ca8e00f4bd12dd9393f3472db1e6054d0d5625b553b3ee2",
+      "embeddedPNG_SHA256": "e240a9c2dceefa2466a12363f0c1530c0fdb60633bd659b489ccde39ea983cfa"
+    },
+    {
+      "page": 13,
+      "source": "battle-2-before.bmp",
+      "sourceSHA256": "d19082257d4ba27d6f919ad9d692a315646eb5c584f4479789ba4183af06593a",
+      "embeddedPNG_SHA256": "0f26d112b0deeb91407d8e404233ce55f757a97f2adb6d28da9958916758c508"
+    },
+    {
+      "page": 13,
+      "source": "enterprise-and-kain.bmp",
+      "sourceSHA256": "7e0abefd2af4a8b2f89343f029ed6a56d5cfd92a241e1e7269f767ddfc7808a6",
+      "embeddedPNG_SHA256": "664757b5263d1dc7922c6158ff6b3d181a968619304b6c7e00fe8fb449948054"
+    },
+    {
+      "page": 14,
+      "source": "lodestone-depths-3.bmp",
+      "sourceSHA256": "c8f986e1341b45a58dcb3258e51211c9926f2eb29827518acd614045a55d4784",
+      "embeddedPNG_SHA256": "800b5ec79142f2fc81f8dd1f8da3f7f9203a20c98aa66f43dd76cd54c969e2e0"
+    },
+    {
+      "page": 14,
+      "source": "twin-harp-complete.bmp",
+      "sourceSHA256": "15928a30933d5db58986477eb6ce5fb0d6fe3e3d7a53096c41758915b2178ab6",
+      "embeddedPNG_SHA256": "4dbaac59524d42be14a6120dbd780ed7b95e44d6f49352106d26b4901109f778"
+    },
+    {
+      "page": 14,
+      "source": "lodestone-portals-2.bmp",
+      "sourceSHA256": "8d2589e8f321a2b6d00060871fb772503a16547d330dac6406b4e4f862e2df04",
+      "embeddedPNG_SHA256": "f800c224ec056d3ef28f6159042ec28fb6ad398e80ce7aeb8a6a9ffb2622f27f"
+    },
+    {
+      "page": 15,
+      "source": "rosa-and-kain-complete.bmp",
+      "sourceSHA256": "f31970a57a073eb366af32567e28abad8f75b137ded8abaabbda56f044e89851",
+      "embeddedPNG_SHA256": "352fcd1581f71b399d849b4ada9e7ade365ccb464cb0a4d0cfe2800712d5f421"
+    },
+    {
+      "page": 15,
+      "source": "zot-field.bmp",
+      "sourceSHA256": "5a9ea866b5ef64ada944ce871b8cd7cda763652e2055194b38f331bd43624cab",
+      "embeddedPNG_SHA256": "5f6c98d61482ec3996c3bd268fa3e574760ef4378db5d4c6d04fecceaa52ff44"
+    },
+    {
+      "page": 15,
+      "source": "magus-complete.bmp",
+      "sourceSHA256": "177214b29a8458273f421d7c3f8b0e2964227bb19275cc7b11cb9221f973a3bf",
+      "embeddedPNG_SHA256": "cbf8f4aee1b824699ccf31437e1f825a6d9df1425c2a829c82f34741c2f3b971"
+    },
+    {
+      "page": 16,
+      "source": "opening-menu.bmp",
+      "sourceSHA256": "1b1b6633ec05c393ba1ee160d87a54022812e7085b8e06e62c47fe00674b2f9c",
+      "embeddedPNG_SHA256": "3511da1626c9afbcc3298b19db9b36a449f04c6ec17704613aae3698cf4cd3e4"
+    },
+    {
+      "page": 17,
+      "source": "battle-9-before.bmp",
+      "sourceSHA256": "5343e15c35b01fca8f41f9da262385f3934753b522f03836eef40549703086b1",
+      "embeddedPNG_SHA256": "6eb9020e75271b32bb285d4d0ebaeb1112fc8141f3dea2eedf0caea2eafd0f0f"
+    },
+    {
+      "page": 18,
+      "source": "c3-verified-title.png",
+      "sourceSHA256": "4bc125ae110a2e77dc67bbc37376bcc71eaaabf334c8aacdadcbbda5859d5998",
+      "embeddedPNG_SHA256": "4bc125ae110a2e77dc67bbc37376bcc71eaaabf334c8aacdadcbbda5859d5998"
+    },
+    {
+      "page": 19,
+      "source": "010-throne.bmp",
+      "sourceSHA256": "c9471754ac9753612d8f56b39af2000852bb7bca112940908bba50f54922ea63",
+      "embeddedPNG_SHA256": "c674969f1f3641b6d7e52b161e38eae74bf4e3c9289eed5aa3982c963061ff7c"
+    },
+    {
+      "page": 20,
+      "source": "032-travel-70-75-31-1.bmp",
+      "sourceSHA256": "c9403bee7551c77d5de7afb3d227ab45f313e29dd527213a040fc00eac2f7110",
+      "embeddedPNG_SHA256": "b07b2c4ae465c900d5443f16322205b66a7d584398987bd4228875ad0ba21e28"
+    },
+    {
+      "page": 20,
+      "source": "057-edge-party-menu.bmp",
+      "sourceSHA256": "deb872baccef4910d5cc00163bcfe74c1c7bd90be2302ea525c08cf95a4c22fe",
+      "embeddedPNG_SHA256": "20dea63a2eb413b2bf4d0ada5d70cf25a358bcfbb5a58093f469e9e15dd34d0d"
+    },
+    {
+      "page": 21,
+      "source": "094-sealed-rope-climb.bmp",
+      "sourceSHA256": "3982c517fe9f1c2c43389066e2cc1fbee41a6e2951cb795d153aeafa5be7364d",
+      "embeddedPNG_SHA256": "11e2bf3d44690828e6d32452902db3bc500ba5b23221c860fddaee1dd2c9b6b2"
+    },
+    {
+      "page": 21,
+      "source": "065-cid-lava-upgrade.bmp",
+      "sourceSHA256": "a4f568c1c73c4fa2c802c11a382199df39b994b8f868358f436e0e170a96db67",
+      "embeddedPNG_SHA256": "550df6ef7e737aec4448321e21b89c11a60ee309784021d4cd8415939a6f228c"
+    },
+    {
+      "page": 21,
+      "source": "056-luca-key-briefing.bmp",
+      "sourceSHA256": "9e7b8fd3543dcaee7001ad369f00f75a8e46fb385739e314193f05d46fd8e273",
+      "embeddedPNG_SHA256": "5901a51e2861fbd0b9a01e4744e2b3707f8772eb6b5ecdd8439116831671e34d"
+    },
+    {
+      "page": 22,
+      "source": "147-giott-moon-route.bmp",
+      "sourceSHA256": "cd33cd9c8109b697a62f960551b52e52ee557334cd9e352a40ee8f3af82c495a",
+      "embeddedPNG_SHA256": "82ea1b7047f0975eafda2511600288d024d2f1bbdc2a760c9af5b82a23e09705"
+    },
+    {
+      "page": 22,
+      "source": "172-depths-right-platform.bmp",
+      "sourceSHA256": "4522138abbdcca146f767db70fdda503b814560b1f204738feb3f3e89464d76b",
+      "embeddedPNG_SHA256": "3cd6f2847561c742f3c15416b224358f5e3801687fc10ec229368fae81e87f11"
+    },
+    {
+      "page": 22,
+      "source": "settled-battle-zeromus-defeated-ending.bmp",
+      "sourceSHA256": "91152f520164e10c78bb47a63fb29ba3ee5a8d180c0f71c9facbb0e459b43d95",
+      "embeddedPNG_SHA256": "512b52ed03ecc3095a29f78121b7465f0c4d5e1e341bb53aeaf3643c5d6218ba"
+    },
+    {
+      "page": 23,
+      "source": "011-first-menu.bmp",
+      "sourceSHA256": "9128360e014c0708d540a240254875a8dee845a0649b46cb3850d3343f14e988",
+      "embeddedPNG_SHA256": "ff976cd9964c1706e2da8b221a24884a92f3c2d7e2db78272096a4a17ec444e2"
+    },
+    {
+      "page": 24,
+      "source": "settled-battle-zeromus-defeated-ending.bmp",
+      "sourceSHA256": "91152f520164e10c78bb47a63fb29ba3ee5a8d180c0f71c9facbb0e459b43d95",
+      "embeddedPNG_SHA256": "512b52ed03ecc3095a29f78121b7465f0c4d5e1e341bb53aeaf3643c5d6218ba"
+    }
+  ]
+}

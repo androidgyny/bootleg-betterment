@@ -1,0 +1,25 @@
+{
+  "version": "Beta 1",
+  "lastUpdated": "2026-11-01",
+  "sources": [
+    {
+      "name": "Final Fantasy X1 (Ch)[!].nes",
+      "bytes": 1048592,
+      "sha256": "ffc36fcc05bab705dd52d630b4192d509583203a5acd635468b72f520d642820"
+    },
+    {
+      "name": "Final Fantasy X2 (Ch)[!].nes",
+      "bytes": 1048592,
+      "sha256": "a85d6c5b9dc0822b846de2e81e793bd1e4930e15a21ee1efeef1f85e72dba01b"
+    },
+    {
+      "name": "Final Fantasy X3 (Ch)[!].nes",
+      "bytes": 1048592,
+      "sha256": "fef339d96cf099b687f6f7e403c13136dd22c6cf4d8da2edc99bafae78ca6982"
+    }
+  ],
+  "assembledBaseSha256": "77bfbc14e33add483b1d6b428e8c2a45049c63d67c112e7e72ce2d2429c8083e",
+  "patchSha256": "c06d7e646bcfc795afa143fee1b2ca139569cc8082439f29c267b48f72b36f30",
+  "outputSha256": "0b94da83c9132a2254f6976245c79baebef4d3a694608d088e0bdf60ca400d8c",
+  "outputBytes": 4194320
+}
