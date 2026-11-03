@@ -21,7 +21,7 @@
     "verification": "Existing release roundtrip report; patch bytes and final ROM hash rechecked."
   },
   "ffiv": {
-    "version": "Beta 1.1.2",
+    "version": "Beta 1.1.3",
     "lastUpdated": "2026-11-03",
     "sources": [
       {
@@ -41,9 +41,8 @@
       }
     ],
     "assembledBaseSha256": "77bfbc14e33add483b1d6b428e8c2a45049c63d67c112e7e72ce2d2429c8083e",
-    "patchSha256": "5a1a65200720ddf00d970c4214d9ad0aae3ca016d114564c2109566bf42be794",
-    "outputSha256": "16266e0d38d83fdb49fd674de01879b9b8d75a3519ab492d9544dcfad07c1862",
-    "outputBytes": 4194320,
-    "status": "Accepted local release after exact-final-hash three-chapter runs and independent Astra graphical review. No remote publication."
+    "patchSha256": "7a809670f99c15edd6aa1b0c708f8d3f65ab85843333b93b90baaff45a11195a",
+    "outputSha256": "56e894b1eac1bb47f9837347fb86fb9da25a8a689bd771593920d5f0c3e74cfb",
+    "outputBytes": 4194320
   }
 }
